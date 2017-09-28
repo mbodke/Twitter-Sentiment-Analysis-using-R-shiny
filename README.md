@@ -1,4 +1,4 @@
-# Projects 
+# Twitter Sentiment Analysis using R Shiny 
 
 The objective of this project is to create a user interface using Shiny to enable users to evaluate the 
 sentiments of the tweets based on either a given twitter username or a trending Twitter hashtag. The 
